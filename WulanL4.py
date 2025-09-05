@@ -20,7 +20,7 @@ if len(sys.argv) < 5:
 \033[33m       ║                 Developer \x1b[38;2;255;20;147m: \033[0mTrashDono                \033[33m║
 \033[33m       ╚══════════════════════════════════════════════════════╝
 \033[0m""")
-  sys.exit("\x1b[38;2;255;20;147m►► \033[0mUsage\x1b[38;2;255;20;147m: \033[0mpython3 \033[33mMedusaL4 \033[0m<\033[32mtimes\033[0m> <\033[32mip\033[0m> <\033[32mport\033[0m> <\033[32mpacket\033[0m> <\033[32mthreads\033[0m>")
+  sys.exit("\x1b[38;2;255;20;147m►► \033[0mUsage\x1b[38;2;255;20;147m: \033[0mpython3 \033[33mWulanL4.py \033[0m<\033[32mtimes\033[0m> <\033[32mip\033[0m> <\033[32mport\033[0m> <\033[32mpacket\033[0m> <\033[32mthreads\033[0m>")
 
 print("\x1b[31m[\x1b[33mWULAN\x1b[31m] \x1b[0mAttack Started!")
 ip = str(sys.argv[1])
