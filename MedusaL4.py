@@ -1,4 +1,4 @@
-oimport socket
+import socket
 import sys, os
 import threading
 import time
